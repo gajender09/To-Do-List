@@ -1,3 +1,3 @@
-You can use the web app by click this link:
+You can use the web app by clicking this link:
 
-    https://to-do-list-by-gajender.vercel.app/
+https://to-do-list-by-gajender.vercel.app/
